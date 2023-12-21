@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714063469193",
+    "project_id": "bangkit-86726",
+    "storage_bucket": "bangkit-86726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714063469193:android:c42056138abaff7eeac458",
+        "android_client_info": {
+          "package_name": "com.example.projectbangkit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADHHE1dRsM6jswBgLp3qYxm7jfbrq3ulw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
